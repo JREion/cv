@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Haoyang Li @ UTS"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -26,9 +26,8 @@ author:
   name             : "Haoyang Li"
   pronouns         : "He/him"  
   bio              : "A meowing researcher on Parameter-Efficient Fine-Tuning (PEFT) for Vision-Language Models."
-  location         : "China"
+  location         : "China & Australia"
   employer         : "University of Technology Sydney"
-  employer         : "Shanghai University"
   uri              : # URL
   email            : "haoyang.li-3@student.uts.edu.au" 
 
@@ -47,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "JREion"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -75,7 +74,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : "青尘"
+  zhihu            : "li-hao-yang-10-29"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -217,16 +216,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
