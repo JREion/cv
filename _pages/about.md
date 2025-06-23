@@ -19,7 +19,7 @@ Social Medias
 
 | RedNote (小红书)  |     Facebook      |  SHUTS MM-Lab |
 | ----------------- | ----------------- | ----------------- |
-| <img src="../images/SocialMedia_RedNote.png" style="width:125px"> | <img src="../images/SocialMedia_Facebook.png" style="width:120px"> | <img src="../images/SocialMedia_SHUTS.png" style="width:120px"> |
+| <img src="https://jreion.github.io/cv/images/SocialMedia_RedNote.png" style="width:125px"> | <img src="https://jreion.github.io/cv/images/SocialMedia_Facebook.png" style="width:120px"> | <img src="https://jreion.github.io/cv/images/SocialMedia_SHUTS.png" style="width:120px"> |
 
 News
 ======
