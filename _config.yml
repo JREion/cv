@@ -22,7 +22,7 @@ repository               : "JREion/cv"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Photo_HaoyangLi.jpeg"
   name             : "Haoyang Li"
   pronouns         : "He/him"  
   bio              : "A meowing researcher on Parameter-Efficient Fine-Tuning (PEFT) for Vision-Language Models."
