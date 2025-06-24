@@ -25,8 +25,16 @@ This page shows all accepted papers.
 <br>**Haoyang Li**, Liang Wang, Chao Wang, Jing Jiang, Yan Peng, Guodong Long
 <br>the IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (**CVPR 2025**, Long Paper)
 
+<div align="left"> 
+    <img src="https://jreion.github.io/cv/images/Poster_DPC.png" alt="fail" width="60%" style="margin-left: 4em;border: 2px solid black;"> 
+</div> 
+
 
 - **M.A.O: Efficient Model-Agnostic Optimization of Prompt Tuning for Vision-Language Models** [[arxiv](https://arxiv.org/abs/2503.18160)] [[GitHub](https://github.com/JREion/M.A.O)] [[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:vGMVtfWmBO0J:scholar.google.com/&output=citation&scisdr=ChZv_AXBCCAAYFlfxYyRKFJGFsuiZmz8T18:AAZF9b8AAAAAaFlfxYyRMlK9BmBZ4a36V1-zxdw&scisig=AAZF9b8AAAAAaFlfxVuFuVkiIZz0k9DECmx5RO4&scisf=4&ct=citation&cd=-1&hl=zh-CN&scfhb=1)]
 <br>**Haoyang Li**, Siyu Zhou, Liang Wang, Guodong Long
 <br>the IEEE International Conference on Multimedia & Expo 2025 (**ICME 2025**, Long Paper)
+
+<div align="left"> 
+    <img src="https://jreion.github.io/cv/images/Poster_M.A.O.png" alt="fail" width="60%" style="margin-left: 4em;border: 2px solid black;"> 
+</div> 
 
