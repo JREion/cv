@@ -16,6 +16,8 @@ author_profile: true
 <img src='https://img.shields.io/badge/CVPR 2025-3 papers-brightgreen.svg' /> <img src='https://img.shields.io/badge/ICME 2025-1 paper-blue.svg' />
 </div>
 
+<br>
+
 **S**ota-**HU**n**T**er**S** (SHUTS) Lab is an open research group founded by members from **Shanghai University** (SHU) and **the University of Technology Sydney** (UTS), dedicated to multi-modal learning and any other compelling areas of AI research. 
 
 SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursuit of state-of-the-art advancements.
@@ -24,7 +26,7 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
 
 ### Homepage
 
-<table align="left" style="width: 50%; min-width: 200px;">
+<table style="width: 50%; min-width: 200px;">
   <tr>
     <td valign="top" style="padding: 12px; border: 1px solid #ddd; border-radius: 8px;">
       <a href="https://github.com/SHUTS-MM-LAB" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 16px; color: #6e40c9;">
@@ -38,7 +40,6 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
   </tr>
 </table>
 
-<br>
 
 ### Members
 
