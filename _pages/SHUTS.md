@@ -24,7 +24,7 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
 
 
 
-### Homepage
+## Homepage
 
 <table style="width: 50%; min-width: 200px;">
   <tr>
@@ -41,7 +41,7 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
 </table>
 
 
-### Members
+## Members
 
 | People                                                       | Introduction                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
