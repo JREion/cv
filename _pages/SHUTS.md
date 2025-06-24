@@ -9,7 +9,7 @@ author_profile: true
 > _Chivalrous hunters, chasing SOTAs._
 
 <div align="center">
-	<img src="https://github.com/SHUTS-MM-LAB/.github/blob/main/profile/pics/SHUTS_LOGO.png?raw=true" alt="fail" width="30%"">
+<img src="https://github.com/SHUTS-MM-LAB/.github/blob/main/profile/pics/SHUTS_LOGO.png?raw=true" alt="fail" width="30%">
 </div> 
 
 <div align="center">
@@ -24,7 +24,7 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
 
 ### Homepage
 
-<table align="center" style="width: 50%; min-width: 200px;">
+<table align="left" style="width: 50%; min-width: 200px;">
   <tr>
     <td valign="top" style="padding: 12px; border: 1px solid #ddd; border-radius: 8px;">
       <a href="https://github.com/SHUTS-MM-LAB" target="_blank" style="text-decoration: none; font-weight: bold; font-size: 16px; color: #6e40c9;">
@@ -37,6 +37,8 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
     </td>
   </tr>
 </table>
+
+<br>
 
 ### Members
 
