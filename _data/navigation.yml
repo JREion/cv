@@ -26,6 +26,9 @@ main:
   - title: "CV"
     url: /cv/
 
+  - title: "中文简历"
+    url: /cv_chinese/
+
   - title: "SHUTS MM-Lab"
     url: /SHUTS/
     
