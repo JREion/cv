@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- I am a joint Ph.D. student at the University of Technology Sydney (UTS) and Shanghai University (SHU), supervised by [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long) in UTS and [Prof. Yan Peng](https://www.shu.edu.cn/info/1611/75790.htm) in SHU.
+- I am a joint Ph.D. student at the University of Technology Sydney (UTS, QS: 88) and Shanghai University (SHU), supervised by [Prof. Guodong Long](https://profiles.uts.edu.au/guodong.long) in UTS and [Prof. Yan Peng](https://www.shu.edu.cn/info/1611/75790.htm) in SHU.
 - My current research focuses on Parameter-Efficient Fine-Tuning (PEFT) of pre-trained vision-language models, mainly **Prompt Tuning**.
 - I have published some research papers at **CVPR**, **ICME**, etc. Details can be found in [Publications](https://jreion.github.io/cv/publications/) page.
 - If you have any comments, please email me (haoyang.li-3@student.uts.edu.au) to let me know!
