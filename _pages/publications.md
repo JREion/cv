@@ -52,11 +52,11 @@ This page shows all accepted papers. Please check my [Google Scholar](https://sc
 
 - **FoRKER: Focused Reasoner with Knowledge Editing and Self-Reflection** [[link](https://www.sciencedirect.com/science/article/pii/S095741742503386X)] [[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:g-vxmijphq8J:scholar.google.com/&output=citation&scisdr=CgGBt4jFARMBbBbQ8xdgDdHq1Uqg4x6jzUI:ABGrvjIAAAAAaRbQ8xdgF9DpxexPIaOl1UK2wKE&scisig=ABGrvjIAAAAAaRbQ87Kyt3Ltb3lfIn4ZBDPSerc&scisf=4&ct=citation&cd=-1)]
 <br>Chunbai Zhang, **Haoyang Li**, Chao Wang, Yang Zhou, Yan Peng
-<br>Expert Systems with Applications, 2025 (SCI Q1)
+<br>Expert Systems with Applications, 2025 (**SCI Q1**)
 
 
 
 - **Plug-and-play dynamic optimization for three-dimensional Gaussian generation** [[link](https://www.sciencedirect.com/science/article/pii/S0952197625024625)] [[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0KdUd4vCFAgJ:scholar.google.com/&output=citation&scisdr=CgGBt4jFARMBbBbPLqgVmgsMk5sQZtttOuQ:ABGrvjIAAAAAaRbPLqgVgAoPgz3_pGZrIuSG0o0&scisig=ABGrvjIAAAAAaRbPLrhzRGspiAftpA2PtruJTEU&scisf=4&ct=citation&cd=-1)]
 <br>Qixuan Li, **Haoyang Li**, Chao Wang, Yang Zhou, Yan Peng
-<br>Engineering Applications of Artificial Intelligence, 2025 (SCI Q1)
+<br>Engineering Applications of Artificial Intelligence, 2025 (**SCI Q1**)
 
