@@ -13,7 +13,7 @@ author_profile: true
 </div> 
 
 <div align="center">
-<img src='https://img.shields.io/badge/CVPR 2025-3 papers-brightgreen.svg' /> <img src='https://img.shields.io/badge/ICME 2025-1 paper-blue.svg' />
+<img src='https://img.shields.io/badge/CVPR 2025-3 papers-brightgreen.svg' /> <img src='https://img.shields.io/badge/ICME 2025-1 paper-blue.svg' /> <img src='https://img.shields.io/badge/NeurIPS 2025-1 paper-orange.svg' />
 </div>
 
 <br>
@@ -50,6 +50,7 @@ SHUTS Lab welcomes AI enthusiasts from all around the world to join in the pursu
 | <img src="https://avatars.githubusercontent.com/u/109060173?v=4" style="width:120px"><br/><center><a href="https://github.com/Apple-jun">Qile He</a></center> | A master student at Shanghai University (SHU), engaged in the research of music generation. <br>上海大学硕士生。主要研究方向为音乐生成。 |
 | <img src="https://avatars.githubusercontent.com/u/71584437?v=4" style="width:120px"><br><center><a href="https://scholar.google.com/citations?user=y5Lu4UUAAAAJ">Siyu Zhou</a></center> | A Ph.D. student at the University of Technology Sydney (UTS), with primary research interests in embodied agents based on Large Language Models (LLMs) and reinforcement learning.  <br>悉尼科技大学博士生。主要研究方向为基于 LLMs 的具身代理、强化学习。 |
 | <img src="https://avatars.githubusercontent.com/u/73231802?v=4" style="width:120px"><br/><center><a href="https://github.com/Sun15194">Jiacheng Sun</a></center> | Ph.D. student at Shanghai University (SHU), with primary research interests in 2D/3D instance segmentation.<br>上海大学博士生。主要研究方向为 2D/3D 实例分割。 |
+
 
 
 
