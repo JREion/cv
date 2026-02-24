@@ -49,6 +49,11 @@ This page shows all accepted papers. Please check my [Google Scholar](https://sc
 </div>
 
 
+- **Negative-Sampling Prompt Learning for Hard Negative Sample Discrimination**
+<br>**Haoyang Li**, Liang Wang, Chao Wang, Yan Peng
+<br>Knowledge-Based Systems, 2026 (**SCI Q1**)
+
+
 
 - **FoRKER: Focused Reasoner with Knowledge Editing and Self-Reflection** [[link](https://www.sciencedirect.com/science/article/pii/S095741742503386X)] [[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:g-vxmijphq8J:scholar.google.com/&output=citation&scisdr=CgGBt4jFARMBbBbQ8xdgDdHq1Uqg4x6jzUI:ABGrvjIAAAAAaRbQ8xdgF9DpxexPIaOl1UK2wKE&scisig=ABGrvjIAAAAAaRbQ87Kyt3Ltb3lfIn4ZBDPSerc&scisf=4&ct=citation&cd=-1)]
 <br>Chunbai Zhang, **Haoyang Li**, Chao Wang, Yang Zhou, Yan Peng
@@ -59,4 +64,9 @@ This page shows all accepted papers. Please check my [Google Scholar](https://sc
 - **Plug-and-play dynamic optimization for three-dimensional Gaussian generation** [[link](https://www.sciencedirect.com/science/article/pii/S0952197625024625)] [[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:0KdUd4vCFAgJ:scholar.google.com/&output=citation&scisdr=CgGBt4jFARMBbBbPLqgVmgsMk5sQZtttOuQ:ABGrvjIAAAAAaRbPLqgVgAoPgz3_pGZrIuSG0o0&scisig=ABGrvjIAAAAAaRbPLrhzRGspiAftpA2PtruJTEU&scisf=4&ct=citation&cd=-1)]
 <br>Qixuan Li, **Haoyang Li**, Chao Wang, Yang Zhou, Yan Peng
 <br>Engineering Applications of Artificial Intelligence, 2025 (**SCI Q1**)
+
+
+- **Focal equilibrium: Bias reshaping for generalizable and robust visual understanding** [[link](https://www.sciencedirect.com/science/article/abs/pii/S0020025526000940)] [[bib](https://scholar.googleusercontent.com/scholar.bib?q=info:HVJoXaRL2G4J:scholar.google.com/&output=citation&scisdr=CktjS5bFAREBbJ2Rd6ETO1gbz-5S5MGv8u0:AFtJQiwAAAAAaZ2Rd6ETIVk630ixcAup6u3mJVE&scisig=AFtJQiwAAAAAaZ2Rd3caSv-LOHWV90TfAIIem9A&scisf=4&ct=citation&cd=-1&hl=zh-CN)]
+<br>Chao Wang, Weiwei Fu, **Haoyang Li**, Linqi Ye, Yang Zhou
+<br>Information Sciences, 2026 (**SCI Q1**)
 
