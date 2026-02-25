@@ -23,6 +23,7 @@ Social Medias
 
 News
 ======
+- (25 Feb. 2026) Our paper on prompt tuning is accepted by Knowledge-Based Systems (SCI Q1).
 - (21 Mar. 2025) Our paper on prompt tuning is accepted by ICME 2025.
 - (18 Mar. 2025) Our paper on prompt tuning is accepted by CVPR 2025.
 - (1 Jan. 2025) We establish Sota HUnTerS (SHUTS) Multi-Modal Lab.
