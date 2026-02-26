@@ -32,6 +32,8 @@ author_profile: true
 
 ## 技能
 
-* 视觉-语言模型微调的科研经验
+* 视觉-语言模型微调的科研经验，相关方向：
+  - 多模态预训练模型的 post-training (后训练)
+  - Transformer 类模型参数压缩
 * Python, PyTorch
 * 论文撰写
